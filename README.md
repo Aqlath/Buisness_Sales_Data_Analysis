@@ -1,4 +1,4 @@
-# 📊 Data Analytics/Science Project – Brainwave Matrix Solutions
+# 📊 Business Sales Data Analysis
 
 ## 🔍 Project Overview
 
@@ -65,7 +65,7 @@ The analysis provided key insights such as:
 
 ## 📂 Files Included
 
-- `data_analytics_project(brainwave).ipynb` – Main analysis notebook  
+- `data_analytics_project.ipynb` – Main analysis notebook  
 - `data_analytics_project_report.pdf` – PDF version of the report  
 - `README.md` – Project overview and documentation  
 
