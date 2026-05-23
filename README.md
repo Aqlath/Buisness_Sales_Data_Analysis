@@ -74,7 +74,6 @@ The analysis provided key insights such as:
 ## 🧠 Author
 
 **Mohammed Aqlath A**  
-*Data Analytics Intern – Brainwave Matrix Solutions*  
 www.linkedin.com/in/mohammed-aqlath-a-26baa3248
 
 ---
